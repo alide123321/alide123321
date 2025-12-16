@@ -30,7 +30,6 @@ Software Engineering student at Penn State passionate about building creative pr
 - Open to collaborations, freelance opportunities, and new challenges!
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alide123321&layout=compact&theme=default#gh-light-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alide123321&layout=compact&theme=github_dark#gh-dark-mode-only)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
