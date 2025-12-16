@@ -9,17 +9,14 @@ Software Engineering student at Penn State passionate about building creative pr
 
 
 ## Favorite Projects
-- 🧪 **GrooveCircle** (JavaScript, HTML, CSS)  
+- 🧪 **[GrooveCircle](https://github.com/alide123321/GrooveCircle)** (JavaScript, HTML, CSS)  
   Interactive web project featuring dynamic visualizations and experiments with web technologies.  
-  Repo: https://github.com/alide123321/GrooveCircle
 
-- 🗂️ **Kyle** (Archived)  
+- 🗂️ **[Kyle](https://github.com/alide123321/Kyle)** (Archived)  
   Older project that is now archived.  
-  Repo: https://github.com/alide123321/Kyle
 
-- 🎵 **KyleMusic** (TypeScript)  
+- 🎵 **[KyleMusic](https://github.com/alide123321/KyleMusic)** (TypeScript)  
   Feature-rich Discord music bot with playlist management, queue system, and seamless playback control.  
-  Repo: https://github.com/alide123321/KyleMusic
 
 > **Note:** Most of my work is in private repos (coursework and team projects). Feel free to reach out if you'd like to discuss my projects!
 
