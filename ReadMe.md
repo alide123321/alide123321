@@ -1,32 +1,44 @@
-## Hey 👋, I'm Ali
+## Hey, I'm Ali 👋
 
-Software Engineering student at Penn State passionate about building creative projects. I'm always learning new technologies and exploring the intersection of music, web development, and game design. 
+Software Engineering student at Penn State. I build web projects in design tooling, music, and interactive media.
 
-## What I’m working on
-- 🎓 **Capstone:** Hue & YOU a accessible color palette tool (WCAG compliant).
-- 🎓 **Course Work:** Web development labs, networking assignments, and team-based software engineering work.
-- 🤖 **KyleV2:** Improving bot stability and commands.
+---
 
+## What I'm Working On
 
-## Favorite Projects
-- 🧪 **[GrooveCircle](https://github.com/alide123321/GrooveCircle)** (JavaScript, HTML, CSS)  
-  Interactive web project featuring dynamic visualizations and experiments with web technologies.  
+- 🎨 **[Hue & YOU](https://hueandyou.vercel.app/)** (capstone): accessible color palette generator built on OKLCH color science and WCAG 2.1. Calculates harmony types automatically and validates contrast ratios so designers get consistent, safe palettes.
+- 🤖 **KyleV2**: fixing bot stability and adding commands.
+- 📚 **Penn State Coursework**: web development, networking, and team software engineering.
 
-- 🗂️ **[Kyle](https://github.com/alide123321/Kyle)** (Archived)  
-  Older project that is now archived.  
+---
 
-- 🎵 **[KyleMusic](https://github.com/alide123321/KyleMusic)** (TypeScript)  
-  Feature-rich Discord music bot with playlist management, queue system, and seamless playback control.  
+## Featured Projects
 
-> **Note:** Most of my work is in private repos (coursework and team projects). Feel free to reach out if you'd like to discuss my projects!
-## Let's Connect 🤝
-- **LinkedIn:** https://www.linkedin.com/in/ali-aldaghishy/
-- **GitHub:** https://github.com/alide123321
-- Open to collaborations, freelance opportunities, and new challenges!
+🎨 **[Hue & YOU](https://hueandyou.vercel.app/)** (TypeScript, React, OKLCH)  
+Palette generator built on perceptual color science, not basic HSL math. Pick a base color and harmony type; it generates five variants, validates each against WCAG 2.1 contrast ratios, and stores saved palettes in a browser library.
 
+🌀 **[GrooveCircle](https://github.com/alide123321/GrooveCircle)** (JavaScript, HTML, CSS)  
+Dynamic visualizations and browser experiments.
 
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alide123321&layout=compact&theme=github_dark#gh-dark-mode-only)-->
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alide123321&bg_color=0e1116&color=6ba4f8&line=6ba4f8&point=2358a6&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+🗂️ **[Kyle](https://github.com/alide123321/Kyle)** (archived)  
+The project that started it all. Now archived, but worth seeing where things began.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+> Most of my work is in private repos: coursework, team projects, and things in progress. Reach out if you want to discuss any of it.
+
+---
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ali-aldaghishy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/alide123321)
+
+Open to collaborations and freelance work.
