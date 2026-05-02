@@ -1,6 +1,6 @@
 ## Hey, I'm Ali 👋
 
-Software Engineering student at Penn State. I build web projects in design tooling, music, and interactive media.
+Software Engineering graduate from Penn State. I build web projects in design tooling, music, and interactive media.
 
 ---
 
